@@ -1,0 +1,79 @@
+sports:
+  - id: nba
+    name: NBA
+    enabled: true
+    emoji: "\ud83c\udfc0"
+    aliases: [nba, basketball]
+    tag_ids: [745]
+  - id: nfl
+    name: NFL
+    enabled: true
+    emoji: "\ud83c\udfc8"
+    aliases: [nfl, football]
+    tag_ids: [450]
+  - id: mlb
+    name: MLB
+    enabled: true
+    emoji: "⚾"
+    aliases: [mlb, baseball]
+    tag_ids: []
+  - id: nhl
+    name: NHL
+    enabled: true
+    emoji: "\ud83c\udfd2"
+    aliases: [nhl, hockey]
+    tag_ids: []
+  - id: ncaa
+    name: NCAA
+    enabled: true
+    emoji: "\ud83c\udf93"
+    aliases: [ncaa, ncaab, ncaaf, college]
+    tag_ids: [100149]
+  - id: premier_league
+    name: Premier League
+    enabled: true
+    emoji: "⚽"
+    aliases: [epl, premier league, premier_league]
+    tag_ids: [739]
+  - id: champions_league
+    name: Champions League
+    enabled: true
+    emoji: "⚽"
+    aliases: [ucl, champions league]
+    tag_ids: [2186]
+  - id: la_liga
+    name: La Liga
+    enabled: true
+    emoji: "⚽"
+    aliases: [laliga, la liga, lal]
+    tag_ids: [780]
+  - id: serie_a
+    name: Serie A
+    enabled: true
+    emoji: "⚽"
+    aliases: [serie a, serie_a]
+    tag_ids: []
+  - id: bundesliga
+    name: Bundesliga
+    enabled: true
+    emoji: "⚽"
+    aliases: [bundesliga]
+    tag_ids: []
+  - id: ligue_1
+    name: Ligue 1
+    enabled: true
+    emoji: "⚽"
+    aliases: [ligue 1, ligue_1]
+    tag_ids: []
+  - id: tennis
+    name: Tennis
+    enabled: true
+    emoji: "\ud83c\udfbe"
+    aliases: [tennis, atp, wta]
+    tag_ids: [864]
+  - id: football
+    name: Football
+    enabled: true
+    emoji: "⚽"
+    aliases: [soccer, football]
+    tag_ids: [1059]
